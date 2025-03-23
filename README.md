@@ -6,6 +6,11 @@ A simple and safe solution to bypass the account limit restriction in Cursor IDE
 
 This tool is created for educational purposes only. Please use it responsibly and in accordance with Cursor's terms of service. This is not intended for any malicious purposes or to cause harm to the Cursor IDE or its services.
 
+## Video
+https://github.com/user-attachments/assets/49b935cc-a376-45fc-b4ec-b04b7f44b1df
+
+
+
 ## 🚀 Features
 
 - Simple and lightweight solution
